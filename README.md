@@ -47,15 +47,16 @@
 ### 🔗 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sauravbhilare/" target="_blank">
+  <a href="https://www.linkedin.com/in/saurav-bhilare-98b394269/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sauravbhilare@example.com">
+  <a href="mailto:sauravbhilare43@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sauravbhilare.github.io/saurav-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat-square&logo=firefox&logoColor=white" />
+</a>
+
 </p>
 
 ---
